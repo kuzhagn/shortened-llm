@@ -1,6 +1,6 @@
 Fine-Tuning and Probing LLaMA-3.1-8B (Adapted from Shortened LLaMA)
 
-This repository includes a focused adaptation of the  [**Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods**](https://arxiv.org/abs/2402.02834) by Nota AI,  [**original Github repo**]([https://arxiv.org/abs/2402.02834](https://github.com/Nota-NetsPresso/shortened-llm.git)).
+This repository includes a focused adaptation of the  [**Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods**](https://arxiv.org/abs/2402.02834) by Nota AI,  [**original Github repo**]([https://arxiv.org/abs/2402.02834](https://github.com/Nota-NetsPresso/shortened-llm.git).
 
 The original work introduces depth pruning for large language models and compares retraining methods such as LoRA and continued pretraining (CPT).
 
