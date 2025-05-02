@@ -1,0 +1,36 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its 10° angle, which means that the tower is 2.25 metres away from the base. But it leans towards the west because of a subsurface sedimental soft spot, which cannot be fully compacted due to the water that permeated it after the tower’s construction. This made the foundation unstable and over the centuries, the tower slowly lost ground.
+1 What caused the Leaning Tower of Pisa to lean?
+2 Why does the Leaning Tower of Pisa lean?
+3 Why does the Leaning Tower of Pisa still lean after all these years?
+4 What would happen if the Leaning Tower of Pisa
+Latency: 3.889s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for leaning as a result of ground instability and construction difficulties when it was first constructed, but a new documentary shows that another factor was also to blame: the ground conditions. According to the documentary, there were reports of sinkholes occurring in Pisa in the years before construction.
+These sinkholes happened as a result of the ground collapsing due to the high water level of the Arno River nearby. This is known as an aquifer, a layer of soil or rock where water can collect. As the water level of the aquifer dropped or as it receded, the soil below was no longer strong enough to hold the weight of the land.
+
+Latency: 3.463s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for its leaning appearance. So many people flock to see it, but how many of them are actually able to get a proper picture of the tower without it appearing to be leaning itself in the photograph? 
+In 1830, Italian engineer Giovanni di Palazzo was chosen to restore the tower, but a failure in the project prompted him to go into private business, producing and restoring wooden statuettes of the Madonna. While he was away on a visit to Germany, the tower began to lean more noticeably, eventually reaching a vertical angle of 13 degrees. It was this leaning appearance that led to an increase in tourism and a new nickname
+Latency: 3.419s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for its tilt, which is caused by soil conditions underneath the tower, but now another tower, that of the Madurola Church in Spain, may be getting a second tilt.
+The tower was constructed around the year 1300 for the religious order Franciscan friars, and was designed to be taller on one side than the other. That imbalance created the lean, and to balance it the Franciscans created a hole in the foundation to take sand out of. Eventually the leaning became too much and the Franciscans had to close the church, allowing it to be open only for special occasions.
+Over the years, many projects
+Latency: 3.412s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its lean even while under construction. That is, it was built in such a way that it would eventually tip over. But why does the tower lean so far and why does it continue to lean even after it is supposedly stabilized? This phenomenon happens because of the geological structure below the tower that causes the ground to sink under the tower. The sinking causes the tower to lean even though it is stabilized.
+Latency: 2.250s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== Summary ===
+Average Latency: 3.287 sec
+Average Allocated Memory: 12828.54 MB
+Average Reserved Memory: 12968.00 MB

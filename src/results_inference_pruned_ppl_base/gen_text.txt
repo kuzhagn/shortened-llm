@@ -1,0 +1,42 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for being crooked, but it's the 15-odd buildings that make it the perfect travel companion.
+Pisa's medieval Leaning Tower has become one of Italy's most famous buildings.
+Pisa's medieval Leaning Tower was the prototype for the skyscraper and one of the world's most famous buildings.
+A medieval traveller on one of the floors of Leaning Tower of Pisa can see right through the tower, which is in front of him.
+An 800-year-old building, Pisa's medieval Leaning Tower is one of the world's most famous buildings.
+A medieval traveller on one of the floors of Leaning Tower of
+Latency: 4.140s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for being off-level. This will be one of the many tests you take during your visit, with the prize at the end of a long climb to the top. 
+The ascent to the top of the Leaning Tower of Pisa is an interesting exercise, where you take on the challenge and enjoy a new perspective when you are at the top.
+This was the Pisa test. But how to get there? 
+It depends on what tests you take at the top. If you are the kind of person that likes to get on the top, get in or jump, get the key and pass one of the challenges to get to the next
+Latency: 3.274s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for two things; the most prominent is leaning by 6 degrees but the most important thing you should know is that it isn't leaning for any reason other than it was built on a fault. The building is so much better with a Leaning Tower, for some of the reasons listed here.
+Leaning Tower of Pisa Leaning Tower of Pisa Pisa, Italy Leaning Tower of Pisa Leaning Tower of Pisa Leaning Tower of Pisa
+Leaning Tower of Pisa Leaning Tower of Pisa Pisa, Italy Leaning Tower of Pisa Leaning Tower of Pisa
+I've got a lot of
+Latency: 3.274s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for leaning and now it leans even more with the installation of the new clock.
+The Leaning Tower of Pisa is known for leaning and now it leans even more with the installation of the new clock.
+The Leaning Tower of Pisa is known for leaning and now it leans even more with the installation of the new clock.
+The Leaning Tower of Pisa is known for leaning and now it leans even more with the installation of the new clock.
+Latency: 2.501s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for being one of the largest historical leaning structures in the world. Pisa, Italy, is well-known worldwide for its UNESCO world heritage designation as the largest leaning structure in the world. The Leaning Tower of Pisa is at the Piazza del Duomo, Pisa, Tuscany. The bell tower in Pisa is a symbol of the Tuscan architecture.
+The Leaning Tower of Pisa is a historical leaning structure in the world's largest city. UNESCO's world heritage designation has been added to the Piazza. The Piazza del Duomo is located in Pisa, Italy. There are some of the tallest buildings in
+Latency: 3.275s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== Summary ===
+Average Latency: 3.293 sec
+Average Allocated Memory: 12828.54 MB
+Average Reserved Memory: 12968.00 MB

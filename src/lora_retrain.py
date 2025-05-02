@@ -17,6 +17,7 @@ from LLMPruner.peft import (
 )
 from LLMPruner.utils.prompter import Prompter, ZeroPrompter
 from utils import get_model, set_seed
+from LLMPruner.peft import PeftModel
 
 
 def main(args):
@@ -168,7 +169,7 @@ def main(args):
             logging_steps=10,
             logging_first_step=True,
             optim="adamw_torch",
-            evaluation_strategy="steps",
+            eval_strategy="steps",
             save_strategy="steps",
             eval_steps=100,
             save_steps=200,
@@ -210,8 +211,6 @@ def main(args):
             device=args.device,
             use_bfloat=args.use_bfloat,
         )
-
-        from LLMPruner.peft import PeftModel
 
         lora_model = PeftModel.from_pretrained(
             model, args.output_dir, torch_dtype=torch.float16

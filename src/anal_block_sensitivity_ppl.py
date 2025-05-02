@@ -64,7 +64,7 @@ if __name__ == "__main__":
             lora_ckpt=args.lora_ckpt,
             tokenizer=args.tokenizer,
             model_type=args.model_type,
-            device="cpu",
+            device="cuda",
             fix_decapoda_config=args.fix_decapoda_config,
             use_bfloat=args.use_bfloat,
         )

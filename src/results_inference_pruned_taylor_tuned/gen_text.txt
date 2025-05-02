@@ -1,0 +1,28 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its inclination and that it actually gets sturdier each year. Incredibly, the tower’s tilt has only increased by one inch in the last 150 years. It’s made even more impressive that the tower continues to sway on top of a foundation made of soft clay and that the tower now stands 62 ft. (19m) off-line – which is about a quarter of a of the tower! However, thanks to a new set of 8 rings made of carbon fiber composites it could be leaning no more. These rings are being installed at the top of the tower as reinforcement for the 60ft. (18
+Latency: 4.240s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for its leaning position, but it's actually far from the only leaning tower in the world. In fact, many historic buildings and landmarks bend due to their age or foundations, or, in case of a number of the listed here, intentionally or at the hands of other accidents. Many of them make up some of the most visited attractions on Earth, and each of them has a unique, and most often fascinating, history behind it. Here are 8 of the most famous and unique leaning towers around the world. #8 - The Piretti Tower (Italy) - 8.57 degrees (37 centimeters) #7- The
+Latency: 3.403s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for its leaning appearance and for the wonderful architectural beauty. It is a bell tower of the Church of St. James in Pisa and is located in Italy. It is one of the top attractions and the most important architectural marvel of Italy. The tower takes a lean on its right side due to the inadequate support at the back of the structure. As well as, the ground beneath the tower is made of soft sand that could have been another possible reason behind the leaning. Due to this leaning nature of the tower, it has become a symbol for instability. In fact, it is believed to have been leaning even when construction was in the early stages
+Latency: 3.590s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for the fact that it is not straight. It is actually leaning on a side, not straight up, but crooked due to heavy construction. This tower made on the 11th century, built over 55 years with different styles in a square shape of 10 meters. The tower is a 25-meter square, and the 28-meter diameter at the base, and 53-meter diameter at the top. The base is about 6 meters above the ground, and the top is 62 meters with a height of 37 meters above the ground. The tower of Pisa is a tower to be used as a bell tower with
+Latency: 3.338s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its unique tilt, which came to existence after the tower's foundation became unstable after construction began on it in 1180. The tower eventually was allowed to reach full height by 1230, but then construction had to stop for nearly 200 years as funds were not available to continue it. It's tilting continued due to the unstable foundation and increased as it reached higher height. The leaning tower was eventually capped at 45 feet and its tilt has stopped growing, while the tower as whole has actually grown in height as of recently, it still still continues to lean in a slight angle.
+In April of 2011, a major
+Latency: 3.123s | Allocated: 12828.54 MB | Reserved: 12968.00 MB
+
+=== Summary ===
+Average Latency: 3.539 sec
+Average Allocated Memory: 12828.54 MB
+Average Reserved Memory: 12968.00 MB

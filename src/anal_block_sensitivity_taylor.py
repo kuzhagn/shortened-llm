@@ -26,7 +26,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--ckpt", type=str, default=None)
     parser.add_argument("--lora_ckpt", type=str, default=None)
-    parser.add_argument("--device", type=str, default="cpu", help="device")
+    parser.add_argument("--device", type=str, default="cuda", help="device")
     parser.add_argument("--seed", type=int, default=1234)
     parser.add_argument("--max_seq_len", type=int, default=128)
     parser.add_argument("--num_calib_data", type=int, default=10)
@@ -94,6 +94,7 @@ if __name__ == "__main__":
         print("Do forward to collect gradient information")
         salience_dict = {}
         for i in range(0, example_prompts.size(0), args.batch_size):
+            print(f"batch {i} / {example_prompts.size(0)}")
             example_prompts_tmp = example_prompts[i : i + args.batch_size]
             loss = model(example_prompts_tmp, labels=example_prompts_tmp).loss
             loss.backward()
